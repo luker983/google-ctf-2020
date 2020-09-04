@@ -199,3 +199,4 @@ At this point the competition had ended, so I had to verify my flag a different 
 * Stack Overflow - Ghidra Decompilation Solution: https://stackoverflow.com/a/4294792
 * Stack Overflow - File Search and Replace: https://stackoverflow.com/a/1585189
 * Stack Overflow - Filename Search and Replace: https://stackoverflow.com/a/9394874
+* Dalvik Opcodes: http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html
